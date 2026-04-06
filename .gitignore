@@ -1,0 +1,26 @@
+# Next.js build output
+frontend/.next/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/
+
+# Stray pip install artefacts
+=1.35.0
+=5.22.0
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
